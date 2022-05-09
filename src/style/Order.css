@@ -1,0 +1,45 @@
+.inpu{
+    display: grid;
+    margin-top: 20px;
+    
+}
+.gi{
+    display: flex;
+    gap: 15px;
+}
+.gi>p{
+    margin-top: -5px;
+}
+.ca{
+    margin-left: 20px;
+}
+.inse{
+    width: 55rem;
+}
+.fa-magnifying-glass{
+    margin-right: 20px;
+}
+.rd{
+    width: 70vw;
+    margin-left: 1 0px;
+}
+.igm{
+    display: flex;
+    justify-content: space-between;
+}
+.pica>h5{
+    font-size: 18px;
+}
+.pica>p{
+    font-size: 12px;
+}
+.status>p{
+    font-size: 12px;
+}
+.status>h3{
+    font-size: 19px;
+}
+.gh{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}

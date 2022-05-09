@@ -1,0 +1,16 @@
+.word:hover{
+    color: #2874f0;
+}
+.fash{
+    padding: 3px;
+   justify-content: start;
+
+}
+.word{
+   justify-content: start;
+   align-items: flex-start;
+}
+.fash1{
+    align-items: center;
+    justify-content: start;
+}

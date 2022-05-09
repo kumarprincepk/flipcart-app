@@ -1,0 +1,26 @@
+.footer{
+    background-color: #212121;
+    font-size: 14px;
+    color: #f1f3f6;
+    /* display: flex; */
+}
+ul{
+    list-style-type: none;
+}
+.footer > ul{
+    cursor: pointer;
+}
+.alin > li{
+    padding-left: 70px;
+}
+.vertical{
+    border-left: 1px solid #f1f3f6;
+    margin-top: 30px;
+    height: 200px;
+    position:absolute;
+    left: 41%;
+    margin-left: 130px;
+}
+.line{
+    margin-left: 130px;
+}
